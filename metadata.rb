@@ -1,3 +1,4 @@
+name             'Nano'
 maintainer       'Joseph Anthony Pasquale Holsten'
 maintainer_email 'joseph@josephholsten.com'
 license          'Apache 2.0'
