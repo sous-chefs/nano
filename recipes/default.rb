@@ -17,7 +17,6 @@
 # limitations under the License.
 #
 
-package "nano" do
-  package_name "nano"
+package 'nano' do
   action :install
 end
