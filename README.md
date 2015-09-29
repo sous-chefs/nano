@@ -25,7 +25,8 @@ Put recipe[nano] in a run list, or include_recipe 'nano' to ensure that nano is 
 License and Author
 ==================
 
-Author:: Joseph Anthony Pasquale Holsten <joseph@josephholsten.com>
+Maintainer:: Joseph Anthony Pasquale Holsten <joseph@josephholsten.com>
+Maintainer Community:: Chef Brigade <help@chefbrigade.io>
 
 Copyright 2012, Joseph Anthony Pasquale Holsten
 
