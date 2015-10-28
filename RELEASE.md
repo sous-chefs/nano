@@ -12,6 +12,7 @@ Finish changes to the cookbook:
 - merge PRs
 - update readme, api, reference docs
 - update links to related sites
+- make sure all tests are passing
 
 Ensure your dev environment is set up with:
 
