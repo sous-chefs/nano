@@ -6,7 +6,7 @@ description 'Installs nano'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version '1.0.3'
 
-%w(debian ubuntu arch redhat centos fedora scientific oracle amazon).each do |os|
+%w(debian ubuntu arch redhat centos fedora scientific oracle amazon suse opensuse opensuseleap).each do |os|
   supports os
 end
 

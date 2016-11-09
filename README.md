@@ -11,6 +11,7 @@ Installs nano.
 - Ubuntu/Debian
 - RHEL
 - Fedora
+- SLES / openSUSE
 - ArchLinux
 
 ### Chef
