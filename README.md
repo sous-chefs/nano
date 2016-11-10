@@ -9,7 +9,7 @@ Installs nano.
 ### Platform:
 
 - Ubuntu/Debian
-- RHEL
+- RHEL and derivatives
 - Fedora
 - SLES / openSUSE
 - ArchLinux
