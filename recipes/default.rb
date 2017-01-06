@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: nano
+# Cookbook:: nano
 # Recipe:: default
 #
-# Copyright 2012, Joseph Anthony Pasquale Holsten
+# Copyright:: 2012-2017, Joseph Anthony Pasquale Holsten
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
