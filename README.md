@@ -1,6 +1,6 @@
 # Nano Cookbook
 
-[![Build Status](https://travis-ci.org/chef-brigade/nano-cookbook.svg?branch=master)](https://travis-ci.org/chef-brigade/nano-cookbook) [![Cookbook Version](https://img.shields.io/cookbook/v/nano-cookbook.svg)](https://supermarket.chef.io/cookbooks/nano)
+[![Build Status](https://travis-ci.org/sous-chefs/nano-cookbook.svg?branch=master)](https://travis-ci.org/sous-chefs/nano-cookbook) [![Cookbook Version](https://img.shields.io/cookbook/v/nano-cookbook.svg)](https://supermarket.chef.io/cookbooks/nano)
 
 Installs nano.
 
