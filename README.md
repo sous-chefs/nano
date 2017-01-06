@@ -1,6 +1,6 @@
 # Nano Cookbook
 
-[![Build Status](https://travis-ci.org/chef-brigade/nano-cookbook.svg?branch=master)](https://travis-ci.org/chef-brigade/nano-cookbook) [![Cookbook Version](https://img.shields.io/cookbook/v/nano-cookbook.svg)](https://supermarket.chef.io/cookbooks/nano)
+[![Build Status](https://travis-ci.org/sous-chefs/nano.svg?branch=master)](https://travis-ci.org/sous-chefs/nano) [![Cookbook Version](https://img.shields.io/cookbook/v/nano-cookbook.svg)](https://supermarket.chef.io/cookbooks/nano)
 
 Installs nano.
 
@@ -32,7 +32,7 @@ Put recipe[nano] in a run list, or include_recipe 'nano' to ensure that nano is 
 
 ## License and Author
 
-Maintainer:: Joseph Anthony Pasquale Holsten [joseph@josephholsten.com](mailto:joseph@josephholsten.com) Maintainer Community:: Chef Brigade [help@chefbrigade.io](mailto:help@chefbrigade.io)
+Maintainer:: Joseph Anthony Pasquale Holsten [joseph@josephholsten.com](mailto:joseph@josephholsten.com) Maintainer Community:: Chef Brigade [help@sous-chefs.org](mailto:help@sous-chefs.org)
 
 Copyright 2012-2016, Joseph Anthony Pasquale Holsten
 
