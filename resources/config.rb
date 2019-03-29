@@ -13,13 +13,6 @@ action :create do
   directory new_resource.config_directory do
   end
 
-  # template new_resource.config_file do
-  #   source    'nanorc.erb'
-  #   cookbook  new_resource.cookbook
-  #   variables(
-  #     config_directory: new_resource.config_directory
-  #   )
-  # end
   with_run_context :root do
     edit_resource(:template, new_resource.config_file) do |new_resource|
       node.run_state['nano'] ||= { 'conf_template_source' => {}, 'conf_cookbook' => {} }
