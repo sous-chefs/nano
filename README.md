@@ -1,7 +1,7 @@
 # Nano Cookbook
 
 [![Cookbook Version](https://img.shields.io/cookbook/v/nano.svg?style=flat)](https://supermarket.chef.io/cookbooks/nano)
-[![Cookbook Version](https://img.shields.io/cookbook/v/nano.svg)](https://supermarket.chef.io/cookbooks/nano)
+[![CircleCI](https://img.shields.io/circleci/project/github/sous-chefs/nano/master.svg)](https://circleci.com/gh/sous-chefs/nano)
 
 ## Overview
 
