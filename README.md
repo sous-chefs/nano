@@ -1,38 +1,38 @@
 # Nano Cookbook
 
-[![Build Status](https://travis-ci.org/sous-chefs/nano.svg?branch=master)](https://travis-ci.org/sous-chefs/nano) [![Cookbook Version](https://img.shields.io/cookbook/v/nano.svg)](https://supermarket.chef.io/cookbooks/nano)
+[![Cookbook Version](https://img.shields.io/cookbook/v/nano.svg?style=flat)](https://supermarket.chef.io/cookbooks/nano)
+[![Cookbook Version](https://img.shields.io/cookbook/v/nano.svg)](https://supermarket.chef.io/cookbooks/nano)
 
-Installs nano.
+## Overview
+
+This cookbook provides a complete installation and configuration of nano, this includes the ability to define nanorc files
+
+https://github.com/scopatz/nanorc
 
 ## Requirements
 
+ - Chef Client 13+
+
 ### Platform:
 
-- Ubuntu/Debian
-- RHEL and derivatives
-- Fedora
-- SLES / openSUSE
-- ArchLinux
+This cookbook officially supports and is tested against the following platforms:
 
-### Chef
+- Ubuntu >= 16.04
+- Debian >= 8
+- CentOS/Redhat >= 6
 
-- Chef 11+
+PRs are welcome to add support for additional platforms.
 
-### Cookbooks
+## Resources
 
-- none
+* [nano_install](https://github.com/sous-chefs/nano/tree/master/documentation/nano_install.md)
+* [nano_config](https://github.com/sous-chefs/nano/tree/master/documentation/nano_config.md)
 
-## Attributes
-
-None.
-
-## Usage
-
-Put recipe[nano] in a run list, or include_recipe 'nano' to ensure that nano is installed on your systems.
 
 ## License and Author
 
-Maintainer:: Joseph Anthony Pasquale Holsten [joseph@josephholsten.com](mailto:joseph@josephholsten.com) Maintainer Community:: Sous Chefs [help@sous-chefs.org](mailto:help@sous-chefs.org)
+Maintainer:: Joseph Anthony Pasquale Holsten [joseph@josephholsten.com](mailto:joseph@josephholsten.com) 
+Maintainer Community:: Sous Chefs [help@sous-chefs.org](mailto:help@sous-chefs.org)
 
 Copyright 2012-2016, Joseph Anthony Pasquale Holsten
 

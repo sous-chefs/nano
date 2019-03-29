@@ -26,4 +26,5 @@ platforms:
 
 suites:
   - name: default
-    run_list: nano::default
+    run_list:
+      - recipe[test::default]

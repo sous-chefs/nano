@@ -1,0 +1,7 @@
+# Chef generated file
+# Any changes will be overwritten
+
+<% @global['nano']['rcfiles'].each do |key, value| %>
+# <%= key %>
+include <%= value %>
+<% end -%>
