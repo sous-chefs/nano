@@ -90,6 +90,7 @@ Policyfile.lock.json
 # Cookbooks #
 #############
 CONTRIBUTING*
+CHANGELOG*
 TESTING*
 MAINTAINERS.toml
 
