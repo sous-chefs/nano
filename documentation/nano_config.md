@@ -6,7 +6,7 @@
 
 Configures the nanorc files at a global level
 
-See: https://github.com/scopatz/nanorc for ideas
+For reference and ideas: [nanorc by scopatz](https://github.com/scopatz/nanorc)
 
 Introduced: v2.0.0
 

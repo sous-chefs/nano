@@ -7,13 +7,11 @@
 
 This cookbook provides a complete installation and configuration of nano, this includes the ability to define nanorc files
 
-https://github.com/scopatz/nanorc
-
 ## Requirements
 
- - Chef Client 13+
+- Chef Client 13+
 
-### Platform:
+### Platform
 
 This cookbook officially supports and is tested against the following platforms:
 
@@ -25,18 +23,17 @@ PRs are welcome to add support for additional platforms.
 
 ## Resources
 
-* [nano_install](https://github.com/sous-chefs/nano/tree/master/documentation/nano_install.md)
-* [nano_config](https://github.com/sous-chefs/nano/tree/master/documentation/nano_config.md)
-
+- [nano_install](https://github.com/sous-chefs/nano/tree/master/documentation/nano_install.md)
+- [nano_config](https://github.com/sous-chefs/nano/tree/master/documentation/nano_config.md)
 
 ## License and Author
 
-Maintainer:: Joseph Anthony Pasquale Holsten [joseph@josephholsten.com](mailto:joseph@josephholsten.com) 
+Maintainer:: Joseph Anthony Pasquale Holsten [joseph@josephholsten.com](mailto:joseph@josephholsten.com)
 Maintainer Community:: Sous Chefs [help@sous-chefs.org](mailto:help@sous-chefs.org)
 
 Copyright 2012-2016, Joseph Anthony Pasquale Holsten
 
-```
+```text
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
