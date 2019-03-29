@@ -1,7 +1,6 @@
 # Reference: http://danger.systems/reference.html
 
 # A pull request summary is required. Add a description of the pull request purpose.
-# Add labels to the pull request in github to identify the type of change. https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/
 # Changelog must be updated for each pull request.
 # Warnings will be issued for:
 #    Pull request with more than 400 lines of code changed

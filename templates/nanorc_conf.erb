@@ -1,0 +1,11 @@
+# Chef generated file
+# Any changes will be overwritten
+
+syntax "<%= @syntax_name %>" <%= @filename_regex %>
+
+<% @colour.each do | key, value | %>
+color <%= key %> "<%= value %>"
+<% end -%>
+<% @options.each do | key, value | %>
+<%= key %> <%= value %>
+<% end -%>
