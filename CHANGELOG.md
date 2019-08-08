@@ -4,6 +4,8 @@ This file is used to list changes made in each version of nano.
 
 ## Unreleased
 
+- Removed Debian 8 from testing
+
 ## 2.0.1 (2019-03-29)
 
 - Added changelog to cookbook
