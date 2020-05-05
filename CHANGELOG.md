@@ -2,6 +2,11 @@
 
 This file is used to list changes made in each version of nano.
 
+## Unreleased
+
+- resolved cookstyle error: metadata.rb:7:19 convention: `Style/StringLiterals`
+- resolved cookstyle error: metadata.rb:8:19 convention: `Style/StringLiterals`
+
 ## 2.0.2 (2020-05-05)
 
 - Removed Debian 8 from testing
