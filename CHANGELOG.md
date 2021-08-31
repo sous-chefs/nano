@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of nano.
 
+## Unreleased
+
+- Standardise files with files in sous-chefs/repo-management
+
 ## 2.0.3 (2020-05-05)
 
 - resolved cookstyle error: metadata.rb:7:19 convention: `Style/StringLiterals`
