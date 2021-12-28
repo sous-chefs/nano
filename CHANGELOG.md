@@ -4,6 +4,8 @@ This file is used to list changes made in each version of nano.
 
 ## Unreleased
 
+- Add unified_mode
+
 ## 2.0.5 - *2021-08-31*
 
 - Standardise files with files in sous-chefs/repo-management

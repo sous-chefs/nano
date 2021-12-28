@@ -1,3 +1,5 @@
+unified_mode true
+
 property :syntax_name,    String, name_property: true
 property :filename_regex, String, required: true
 property :colour,         Hash,   default: {}
