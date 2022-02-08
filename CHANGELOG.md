@@ -4,6 +4,8 @@ This file is used to list changes made in each version of nano.
 
 ## Unreleased
 
+- Remove delivery folder
+
 ## 3.0.0 - *2021-12-28*
 
 - Add unified_mode
