@@ -4,6 +4,10 @@ This file is used to list changes made in each version of nano.
 
 ## Unreleased
 
+- Update workflows
+- Add Renovate config
+- Update tested platforms
+
 ## 3.0.1 - *2022-02-08*
 
 - Remove delivery folder

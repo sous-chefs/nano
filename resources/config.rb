@@ -12,8 +12,7 @@ property :source,         String, default: 'nanorc_conf.erb'
 action :create do
   file_name = ::File.join(new_resource.config_directory, "#{new_resource.syntax_name}.nanorc")
 
-  directory new_resource.config_directory do
-  end
+  directory new_resource.config_directory
 
   with_run_context :root do
     edit_resource(:template, new_resource.config_file) do |new_resource|

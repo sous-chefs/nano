@@ -1,8 +1,6 @@
-[back to resource list](https://github.com/sous-chefs/nano#resources)
-
----
-
 # nano_config
+
+[back to resource list](https://github.com/sous-chefs/nano#resources)
 
 Configures the nanorc files at a global level
 
