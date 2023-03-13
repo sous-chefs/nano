@@ -1,8 +1,6 @@
-[back to resource list](https://github.com/sous-chefs/nano#resources)
-
----
-
 # nano_install
+
+[back to resource list](https://github.com/sous-chefs/nano#resources)
 
 Installs nano from the repositories
 
