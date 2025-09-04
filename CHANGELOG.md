@@ -2,7 +2,7 @@
 
 This file is used to list changes made in each version of nano.
 
-## Unreleased
+## 3.0.13 - *2025-09-04*
 
 ## 3.0.12 - *2024-05-03*
 
