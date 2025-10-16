@@ -2,6 +2,13 @@
 
 This file is used to list changes made in each version of nano.
 
+## [3.0.14](https://github.com/sous-chefs/nano/compare/3.0.13...v3.0.14) (2025-10-16)
+
+
+### Bug Fixes
+
+* **ci:** Update workflows to use release pipeline ([#81](https://github.com/sous-chefs/nano/issues/81)) ([19ecf66](https://github.com/sous-chefs/nano/commit/19ecf662e952a28237dfa44ab333807d5024c07f))
+
 ## 3.0.2 - *2023-03-13*
 
 * Update workflows
