@@ -8,6 +8,14 @@ source_url        'https://github.com/sous-chefs/nano'
 issues_url        'https://github.com/sous-chefs/nano/issues'
 chef_version      '>= 15.3'
 
-%w(debian ubuntu arch redhat centos fedora scientific oracle amazon suse opensuseleap).each do |os|
-  supports os
-end
+supports 'amazon'
+supports 'arch'
+supports 'centos'
+supports 'debian'
+supports 'fedora'
+supports 'opensuseleap'
+supports 'oracle'
+supports 'redhat'
+supports 'scientific'
+supports 'suse'
+supports 'ubuntu'
