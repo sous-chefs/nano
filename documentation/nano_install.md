@@ -11,9 +11,9 @@ Installs nano from the repositories
 
 ## Properties
 
-| Name                  | Type        |  Default      | Description                         | Allowed Values
-| --------------------- | ----------- | ------------- | ----------------------------------- | --------------- |
-| `package_name`        |  String     |               | Name property, always set to `nano` |
+| Name           | Type   | Default | Description                         | Allowed Values
+| -------------- | ------ | ------- | ----------------------------------- | --------------
+| `package_name` | String | -       | Name property, always set to `nano` | -
 
 ## Examples
 
