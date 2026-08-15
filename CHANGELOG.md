@@ -2,6 +2,15 @@
 
 This file is used to list changes made in each version of nano.
 
+## [3.0.15](https://github.com/sous-chefs/nano/compare/v3.0.14...v3.0.15) (2026-08-15)
+
+
+### Bug Fixes
+
+* **ci:** Update workflows to use release pipeline ([#81](https://github.com/sous-chefs/nano/issues/81)) ([19ecf66](https://github.com/sous-chefs/nano/commit/19ecf662e952a28237dfa44ab333807d5024c07f))
+* migrate to Policyfile and clean up docs ([#89](https://github.com/sous-chefs/nano/issues/89)) ([41d90c5](https://github.com/sous-chefs/nano/commit/41d90c58b1690e19c30c8204919c0423c25cc01c))
+* repair workflow actionlint failures ([#86](https://github.com/sous-chefs/nano/issues/86)) ([6543b60](https://github.com/sous-chefs/nano/commit/6543b60c3b8041a1f6c0613d4ebf2c7731cb6c85))
+
 ## [3.0.14](https://github.com/sous-chefs/nano/compare/3.0.13...v3.0.14) (2025-10-16)
 
 
